@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{2BDF7FBB-20F9-4E66-8347-747F6C1B1F22}|36_TheSieve\\36_TheSieve.csproj|c:\\users\\moham\\onedrive\\documents\\a_programming\\rb_whitaker\\2025\\36_delegates_challenges\\36_thesieveapp\\36_thesieve\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2BDF7FBB-20F9-4E66-8347-747F6C1B1F22}|36_TheSieve\\36_TheSieve.csproj|solutionrelative:36_thesieve\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BDF7FBB-20F9-4E66-8347-747F6C1B1F22}|36_TheSieve\\36_TheSieve.csproj|c:\\users\\moham\\onedrive\\documents\\a_programming\\rb_whitaker\\2025\\36_delegates_challenges\\36_thesieveapp\\36_thesieve\\sieve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BDF7FBB-20F9-4E66-8347-747F6C1B1F22}|36_TheSieve\\36_TheSieve.csproj|solutionrelative:36_thesieve\\sieve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +34,30 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Documents\\a_Programming\\RB_Whitaker\\2025\\36_Delegates_Challenges\\36_TheSieveApp\\36_TheSieve\\Program.cs",
               "RelativeDocumentMoniker": "36_TheSieve\\Program.cs",
-              "ToolTip": "C:\\Users\\moham\\OneDrive\\Documents\\a_Programming\\RB_Whitaker\\2025\\36_Delegates_Challenges\\36_TheSieveApp\\36_TheSieve\\Program.cs",
-              "RelativeToolTip": "36_TheSieve\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Documents\\a_Programming\\RB_Whitaker\\2025\\36_Delegates_Challenges\\36_TheSieveApp\\36_TheSieve\\Program.cs*",
+              "RelativeToolTip": "36_TheSieve\\Program.cs*",
+              "ViewState": "AgIAACAAAAAAAAAAAAA+wAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-21T10:44:54.369Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sieve.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\OneDrive\\Documents\\a_Programming\\RB_Whitaker\\2025\\36_Delegates_Challenges\\36_TheSieveApp\\36_TheSieve\\Sieve.cs",
+              "RelativeDocumentMoniker": "36_TheSieve\\Sieve.cs",
+              "ToolTip": "C:\\Users\\moham\\OneDrive\\Documents\\a_Programming\\RB_Whitaker\\2025\\36_Delegates_Challenges\\36_TheSieveApp\\36_TheSieve\\Sieve.cs*",
+              "RelativeToolTip": "36_TheSieve\\Sieve.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T22:10:27.13Z",
               "EditorCaption": ""
             }
           ]

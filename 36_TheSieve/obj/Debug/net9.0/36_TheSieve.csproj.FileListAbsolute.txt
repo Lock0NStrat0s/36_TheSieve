@@ -1,0 +1,15 @@
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\36_Delegates_Challenges\36_TheSieveApp\36_TheSieve\bin\Debug\net9.0\36_TheSieve.exe
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\36_Delegates_Challenges\36_TheSieveApp\36_TheSieve\bin\Debug\net9.0\36_TheSieve.deps.json
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\36_Delegates_Challenges\36_TheSieveApp\36_TheSieve\bin\Debug\net9.0\36_TheSieve.runtimeconfig.json
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\36_Delegates_Challenges\36_TheSieveApp\36_TheSieve\bin\Debug\net9.0\36_TheSieve.dll
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\36_Delegates_Challenges\36_TheSieveApp\36_TheSieve\bin\Debug\net9.0\36_TheSieve.pdb
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\36_Delegates_Challenges\36_TheSieveApp\36_TheSieve\obj\Debug\net9.0\36_TheSieve.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\36_Delegates_Challenges\36_TheSieveApp\36_TheSieve\obj\Debug\net9.0\36_TheSieve.AssemblyInfoInputs.cache
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\36_Delegates_Challenges\36_TheSieveApp\36_TheSieve\obj\Debug\net9.0\36_TheSieve.AssemblyInfo.cs
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\36_Delegates_Challenges\36_TheSieveApp\36_TheSieve\obj\Debug\net9.0\36_TheSieve.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\36_Delegates_Challenges\36_TheSieveApp\36_TheSieve\obj\Debug\net9.0\36_TheSieve.sourcelink.json
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\36_Delegates_Challenges\36_TheSieveApp\36_TheSieve\obj\Debug\net9.0\36_TheSieve.dll
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\36_Delegates_Challenges\36_TheSieveApp\36_TheSieve\obj\Debug\net9.0\refint\36_TheSieve.dll
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\36_Delegates_Challenges\36_TheSieveApp\36_TheSieve\obj\Debug\net9.0\36_TheSieve.pdb
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\36_Delegates_Challenges\36_TheSieveApp\36_TheSieve\obj\Debug\net9.0\36_TheSieve.genruntimeconfig.cache
+C:\Users\moham\OneDrive\Documents\a_Programming\RB_Whitaker\2025\36_Delegates_Challenges\36_TheSieveApp\36_TheSieve\obj\Debug\net9.0\ref\36_TheSieve.dll
